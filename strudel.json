@@ -1,5 +1,30 @@
 {
   "_base": "https://melaniehuang.github.io/codejamassets/",
+  "cica": [
+    "fetlemat/cica/cic-1.wav",
+    "fetlemat/cica/cic-2.wav"
+  ],
+  "del":[
+    "fetlemat/del/del_1.wav",
+    "fetlemat/del/del_2.wav",
+    "fetlemat/del/del_3.wav"
+  ],
+  "dhol":[
+    "fetlemat/dhol/dhol_0.wav",
+    "fetlemat/dhol/dhol_1.wav"
+  ],
+  "extra":[
+    "fetlemat/extra/cdt_fx_analog_shot.wav",
+    "fetlemat/extra/opia-1.wav",
+    "fetlemat/extra/sword-1.wav",
+    "fetlemat/extra/texture_16.wav"
+  ],
+  "wsaw":[
+    "fetlemat/wsaw/wobsaw_1.wav",
+    "fetlemat/wsaw/wobsaw_2.wav",
+    "fetlemat/wsaw/wobsaw_3.wav",
+    "fetlemat/wsaw/wobsaw_4.wav"
+  ],
   "glass": [
     "airy-bow.wav",
     "goblet-bow.wav",
