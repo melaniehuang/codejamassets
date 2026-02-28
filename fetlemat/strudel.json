@@ -1,0 +1,28 @@
+{
+  "_base": "https://melaniehuang.github.io/codejamassets/fetlemat/",
+  "cica": [
+    "cica/cic-1.wav",
+    "cica/cic-2.wav"
+  ],
+  "del":[
+    "del/del_1.wav",
+    "del/del_2.wav",
+    "del/del_3.wav"
+  ],
+  "dhol":[
+    "dhol/dhol_0.wav",
+    "dhol/dhol_1.wav"
+  ],
+  "extra":[
+    "extra/cdt_fx_analog_shot.wav",
+    "extra/opia-1.wav",
+    "extra/sword-1.wav",
+    "extra/texture_16.wav"
+  ],
+  "wsaw":[
+    "wsaw/wobsaw_1.wav",
+    "wsaw/wobsaw_2.wav",
+    "wsaw/wobsaw_3.wav",
+    "wsaw/wobsaw_4.wav"
+  ]
+}
