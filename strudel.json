@@ -1,5 +1,42 @@
 {
   "_base": "https://melaniehuang.github.io/codejamassets/",
+  "sleepy": [
+    "sleepy/bowl.wav",
+    "sleepy/Drone_bass_160bpm.wav",
+    "sleepy/Error_Synth_160bpm.wav",
+    "sleepy/Filtered_Synth_1.wav",
+    "sleepy/no_matter_who_you_are.wav",
+    "sleepy/Raar_Enegiser_1.wav",
+    "sleepy/Raar_Pad_Creepy_seq.wav",
+    "sleepy/Raar_Texture_Random_Whispers.wav",
+    "sleepy/saturn_comb.wav",
+    "sleepy/weird_atmosish_145bpm.wav",
+    "sleepy/weird_fx_noise_2_130bpm.wav",
+    "sleepy/what_the_hell_is_music.wav",
+    "sleepy/zoom1.WAV",
+    "sleepy/zoom2.WAV",
+    "sleepy/zoom3.WAV",
+    "sleepy/zoom4.WAV",
+    "sleepy/zoom5.WAV"
+  ],
+  "sleepyperc": [
+    "sleepy/Mod_Perc_1.wav",
+    "sleepy/Mod_Perc_2.wav",
+    "sleepy/Mod_Perc_3.wav",
+    "sleepy/Mod_Perc_4.wav",
+    "sleepy/Mod_Perc_5.wav",
+    "sleepy/Mod_Perc_8.wav",
+    "sleepy/Mod_Perc_15.wav",
+    "sleepy/Rollover_Major.wav",
+    "sleepy/Rollover_Minor.wav",
+    "sleepy/Back.wav",
+    "sleepy/Commit.wav",
+    "sleepy/Confirm.wav",
+    "sleepy/Deny.wav",
+    "sleepy/Display_Major.wav",
+    "sleepy/Display_Minor.wav",
+    "sleepy/Hide_Collapse.wav"
+  ],
   "cica": [
     "fetlemat/cica/cic-1.wav",
     "fetlemat/cica/cic-2.wav"
