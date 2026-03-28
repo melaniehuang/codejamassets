@@ -1,5 +1,50 @@
 {
   "_base": "https://melaniehuang.github.io/codejamassets/",
+  "ritascream": [
+    "rita/scream/rollercoasterscream.mp3"
+  ],
+  "ritavoxab": [
+    "rita/vox_ab/0_tap.wav",
+    "rita/vox_ab/1_short.wav",
+    "rita/vox_ab/2_mid.wav",
+    "rita/vox_ab/3_long.wav"
+  ],
+  "ritavoxc": [
+    "rita/vox_c/0_tap.wav",
+    "rita/vox_c/1_short.wav",
+    "rita/vox_c/2_mid.wav",
+    "rita/vox_c/3_long.wav"
+  ],
+  "ritavoxdb": [
+    "rita/vox_db/0_tap.wav",
+    "rita/vox_db/1_short.wav",
+    "rita/vox_db/2_mid.wav",
+    "rita/vox_db/3_long.wav"
+  ],
+  "ritavoxeb": [
+    "rita/vox_eb/0_tap.wav",
+    "rita/vox_eb/1_short.wav",
+    "rita/vox_eb/2_mid.wav",
+    "rita/vox_eb/3_long.wav"
+  ],
+  "ritavoxf": [
+    "rita/vox_f/0_short.wav",
+    "rita/vox_f/1_short.wav",
+    "rita/vox_f/2_mid.wav",
+    "rita/vox_f/3_long.wav"
+  ],
+  "ritavoxgrain": [
+    "rita/vox_grain/0_tap.wav",
+    "rita/vox_grain/1_short.wav",
+    "rita/vox_grain/2_mid.wav",
+    "rita/vox_grain/3_long.wav"
+  ],
+  "ritavoxspoken": [
+    "rita/vox_spoken/0_tap.wav",
+    "rita/vox_spoken/1_short.wav",
+    "rita/vox_spoken/2_mid.wav",
+    "rita/vox_spoken/3_long.wav"
+  ],
   "sleepy": [
     "sleepy/bowl.wav",
     "sleepy/Drone_bass_160bpm.wav",
