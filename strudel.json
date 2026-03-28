@@ -77,6 +77,52 @@
     "zth/kcz/omnkc.wav",
     "zth/kcz/ukkc.wav"
   ],
+  "zldz": [
+    "zth/ldz/lashld.wav",
+    "zth/ldz/m1organ.wav",
+    "zth/ldz/pianochrd.wav",
+    "zth/ldz/roundld.wav",
+    "zth/ldz/synld.wav",
+    "zth/ldz/vultureld.wav"
+  ],
+  "zohhz":[
+    "zth/ohhz/clasoh.wav",
+    "zth/ohhz/hioh.wav",
+    "zth/ohhz/loch.wav",
+  ],
+  "zpadz":[
+    "zth/padz/blupd.wav",
+    "zth/padz/breezepd.wav",
+    "zth/padz/choirpd.wav",
+    "zth/padz/connectpd.wav",
+    "zth/padz/downpd.wav",
+    "zth/padz/feelpd.wav",
+    "zth/padz/flutepd.wav",
+    "zth/padz/gravipd.wav",
+    "zth/padz/headpd.wav",
+    "zth/padz/induspd.wav",
+    "zth/padz/jazzpd.wav",
+    "zth/padz/jetpd.wav",
+    "zth/padz/junglpd.wav",
+    "zth/padz/marspd.wav",
+    "zth/padz/milkypd.wav",
+    "zth/padz/oldiepd.wav",
+    "zth/padz/peshpd.wav",
+    "zth/padz/physpd.wav",
+    "zth/padz/shoepd.wav",
+    "zth/padz/smoothpd.wav",
+    "zth/padz/suspd.wav",
+    "zth/padz/warmpd.wav"
+  ],
+  "zprcz": [
+    "zth/prcz/808cow.wav",
+    "zth/prcz/KSHMR_Snap_03.wav",
+    "zth/prcz/adamf.wav",
+    "zth/prcz/shaker.wav",
+    "zth/prcz/tinyrim.wav",
+    "zth/prcz/uhn.wav",
+    "zth/prcz/ukrim.wav"
+  ],
   "ritascream": [
     "rita/scream/rollercoasterscream.mp3"
   ],
