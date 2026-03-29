@@ -1,5 +1,15 @@
 {
   "_base": "https://melaniehuang.github.io/codejamassets/",
+  "computer":[
+    "computer/computer_0_voice_m.wav",
+    "computer/computer_1_voice_f.wav",
+    "computer/computer_9.wav",
+    "computer/computer_10.wav",
+    "computer/computer_11.wav",
+    "computer/computer_13.wav",
+    "computer/computer_14.wav",
+    "computer/machine_0.wav"
+  ],
   "zbassz":[
     "zth/bassz/acidbs.wav",
     "zth/bassz/bigdonk.wav",
